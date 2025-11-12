@@ -155,7 +155,7 @@ Ejemplos: Políticas de seguridad, gestión de activos, seguridad en la nube, cl
       
       A.5.23 Seguridad en el uso de servicios en la nube (¡Nuevo en 2022!): Políticas específicas para proteger la información que está en plataformas como AWS, Azure, Google Cloud, SaaS, etc.
       
-      5. Gestión de Incidentes de Seguridad (A.5.24 - A.5.28)
+-- 5. Gestión de Incidentes de Seguridad (A.5.24 - A.5.28)
       Prepara a la organización para cuando algo malo ocurra.
       
       A.5.24 Planificación y preparación: Tener un plan de respuesta a incidentes antes de que ocurran.
@@ -166,14 +166,14 @@ Ejemplos: Políticas de seguridad, gestión de activos, seguridad en la nube, cl
       
       A.5.28 Recolección de evidencia: Preservar la evidencia digital (forense) de manera adecuada.
       
-      6. Continuidad del Negocio (A.5.29 - A.5.30)
+--   6. Continuidad del Negocio (A.5.29 - A.5.30)
       Asegura que la organización pueda seguir operando durante un desastre.
       
       A.5.29 Planificación de la continuidad: El plan general de continuidad del negocio (BCP).
       
       A.5.30 Preparación de las TIC para la continuidad (¡Nuevo en 2022!): Se enfoca específicamente en la parte tecnológica (TI) de la continuidad, como los planes de recuperación ante desastres (DRP) y las copias de seguridad.
       
-      7. Cumplimiento y Auditoría (A.5.31 - A.5.37)
+--   7. Cumplimiento y Auditoría (A.5.31 - A.5.37)
       Verifica que estás cumpliendo con las reglas internas y externas.
       
       A.5.31 Requisitos legales, regulatorios y contractuales: Identificar y mantener actualizada la lista de leyes que debes cumplir.
