@@ -191,7 +191,156 @@ A.6 Controles de Personas (8 controles)
 
 Ejemplos: Verificación de antecedentes (screening), formación y concienciación, proceso disciplinario, teletrabajo.
 
+
+¡Claro! El dominio A.6 Controles de Personas es breve pero fundamental. Se centra en el "factor humano" de la seguridad, reconociendo que las personas pueden ser tanto el activo más fuerte como el eslabón más débil.
+
+Los 8 controles de este dominio cubren todo el ciclo de vida de un empleado o contratista en la organización:
+
+-- 1. Antes de la Contratación
+El objetivo es reducir el riesgo antes de que alguien tenga acceso a la información.
+
+A.6.1 Selección (Screening)
+
+Qué es: Es la verificación de antecedentes de los candidatos a un puesto, especialmente para roles sensibles (como administradores de sistemas, finanzas o directivos).
+
+Ejemplo: Comprobar referencias laborales, verificar títulos académicos o revisar antecedentes penales (siempre de acuerdo con la ley local y las normas de privacidad).
+
+-- 2. Durante el Empleo
+Aquí se busca asegurar que las personas entiendan sus responsabilidades y actúen de forma segura en el día a día.
+
+A.6.2 Términos y condiciones de empleo
+
+Qué es: Asegurarse de que las responsabilidades de seguridad estén claramente definidas en los contratos de trabajo o acuerdos de confidencialidad (NDA).
+
+Ejemplo: El contrato debe decir explícitamente que el empleado debe cumplir con las políticas de seguridad de la empresa y proteger la información confidencial.
+
+A.6.3 Concienciación, educación y formación en seguridad
+
+Qué es: El pilar central de la seguridad humana. Es el programa continuo para educar a todos sobre los riesgos.
+
+Ejemplo: Capacitaciones anuales obligatorias, simulacros de phishing, boletines informativos sobre nuevas amenazas, etc.
+
+A.6.4 Proceso disciplinario
+
+Qué es: Tener un proceso formal y comunicado para sancionar a quienes violen (intencionalmente o no) las políticas de seguridad.
+
+Ejemplo: Desde una advertencia verbal por dejar la pantalla desbloqueada hasta el despido por robar datos de clientes.
+
+A.6.5 Responsabilidades después del cese o cambio de empleo
+
+Qué es: Define las obligaciones de seguridad que continúan incluso después de que la persona deja la empresa.
+
+Ejemplo: La obligación de no divulgar secretos comerciales o devolver toda la propiedad de la empresa sigue vigente después del despido o renuncia.
+
+-- 3. Cese y Gestión de Cambios
+Estos controles gestionan la transición segura de las personas al salir de la empresa o cambiar de rol.
+
+A.6.6 Acuerdos de confidencialidad o no divulgación (NDA)
+
+Qué es: Documentos legales donde empleados o terceros (consultores, proveedores) se comprometen a no revelar información sensible de la empresa.
+
+A.6.7 Trabajo remoto (Teletrabajo)
+
+Qué es: Establece las reglas de seguridad específicas para las personas que trabajan desde fuera de la oficina.
+
+Ejemplo: Exigir el uso de VPN, asegurar la red Wi-Fi de la casa, política de pantalla limpia en el hogar (que la familia no vea datos de clientes), etc.
+
+A.6.8 Notificación de eventos de seguridad de la información
+
+Qué es: Un control que obliga a todo el personal a reportar cualquier cosa sospechosa que vea, de forma inmediata.
+
+Ejemplo: Instruir a los empleados para que llamen a la mesa de ayuda inmediatamente si reciben un correo de phishing o si creen que su máquina tiene un virus, en lugar de borrarlo o ignorarlo.
+
+--
+
 A.7 Controles Físicos (14 controles)
+--
+1. Perímetros y Puntos de Entrada (A.7.1 - A.7.4)
+El objetivo es detener a un intruso antes de que entre al edificio o a las áreas sensibles.
+
+A.7.1 Perímetros de seguridad física:
+
+Qué es: Define una "barrera" alrededor de las instalaciones de la empresa.
+
+Ejemplo: Muros, vallas, recepcionistas, puertas de entrada controladas, o incluso la propia pared de la oficina si está dentro de un edificio compartido.
+
+A.7.2 Controles de entrada física:
+
+Qué es: Cómo se controla quién pasa por ese perímetro.
+
+Ejemplo: Guardias de seguridad, puertas con tarjeta de acceso (magnética, RFID), torniquetes, o un sistema de intercomunicación con cámara.
+
+A.7.3 Seguridad de oficinas, despachos y recursos:
+
+Qué es: Reglas para asegurar áreas específicas dentro del perímetro.
+
+Ejemplo: Mantener las oficinas cerradas con llave fuera del horario laboral, no dejar a las visitas solas en áreas sensibles.
+
+A.7.4 Supervisión de la seguridad física:
+
+Qué es: Detectar y monitorear intentos de acceso no autorizados.
+
+Ejemplo: Cámaras de seguridad (CCTV), sensores de movimiento, alarmas de intrusión y el personal que vigila esos monitores.
+
+🔐 2. Áreas Seguras (A.7.5 - A.7.6)
+Estos controles se aplican a zonas de alta sensibilidad dentro del edificio, como los centros de datos (salas de servidores).
+
+A.7.5 Protección contra amenazas externas y ambientales:
+
+Qué es: Proteger los equipos críticos de desastres naturales o provocados por el hombre.
+
+Ejemplo: Extintores de incendios (específicos para equipos electrónicos), sistemas de control de temperatura (aire acondicionado) para el data center, protección contra inundaciones.
+
+A.7.6 Trabajo en áreas seguras:
+
+Qué es: Reglas especiales que aplican solo en esas zonas de alta seguridad.
+
+Ejemplo: Prohibir la entrada con teléfonos móviles o cámaras al centro de datos, mantener un registro de quién entra y sale, no permitir comida o bebida.
+
+💻 3. Equipos y Activos (A.7.7 - A.7.12)
+Aquí el foco pasa del edificio a los dispositivos específicos.
+
+A.7.7 Escritorio limpio y pantalla limpia:
+
+Qué es: Una política clave para evitar que la información quede expuesta.
+
+Ejemplo: Escritorio limpio: Guardar documentos confidenciales bajo llave al final del día. Pantalla limpia: Bloquear la computadora (ej. Windows + L) cada vez que te levantas del puesto.
+
+A.7.8 Emplazamiento y protección de equipos:
+
+Qué es: Colocar los equipos de forma que se reduzca el riesgo.
+
+Ejemplo: Poner los servidores en un rack cerrado con llave, no ubicar una impresora con informes confidenciales al lado del baño, orientar los monitores de RRHH lejos de las visitas.
+
+A.7.10 Seguridad de los activos fuera de las instalaciones:
+
+Qué es: Reglas para proteger los equipos cuando salen de la oficina.
+
+Ejemplo: Políticas de seguridad para laptops (cifrado de disco obligatorio), no dejar la laptop a la vista en el auto, usar guayas de seguridad en conferencias.
+
+A.7.12 Eliminación segura o reutilización de equipos:
+
+Qué es: Asegurarse de que no queden datos en los equipos antes de botarlos, venderlos o reasignarlos.
+
+Ejemplo: Usar software de borrado seguro (Wiping) o destruir físicamente los discos duros viejos.
+
+4. Infraestructura de Soporte (A.7.13 - A.7.14)
+Se centra en los "cables y tuberías" que hacen funcionar la tecnología.
+
+A.7.13 Seguridad del cableado:
+
+Qué es: Proteger el cableado de red y de alimentación contra daños o pinchazos (intercepción de datos).
+
+Ejemplo: Usar canaletas para los cables, separar los cables de datos de los de electricidad, asegurar las cajas de conexión de red en las paredes.
+
+A.7.14 Mantenimiento de equipos:
+
+Qué es: Gestionar el mantenimiento (tanto interno como de terceros) de forma segura.
+
+Ejemplo: Revisar que el técnico que viene a reparar la fotocopiadora sea quien dice ser, y supervisarlo para que no acceda a información confidencial.
+
+--
+
 
 Ejemplos: Perímetros de seguridad, control de acceso físico, seguridad de escritorios limpios, protección contra amenazas ambientales.
 
