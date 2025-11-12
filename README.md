@@ -109,8 +109,7 @@ A.5 Controles Organizacionales (37 controles)
 
 Ejemplos: Políticas de seguridad, gestión de activos, seguridad en la nube, clasificación de la información.
 
---
-      1. Políticas y Gobernanza (A.5.1 - A.5.8)
+-- 1. Políticas y Gobernanza (A.5.1 - A.5.8)
       Este grupo define las reglas y la dirección desde la alta gerencia.
       
       A.5.1 Políticas para la seguridad de la información: El documento principal (la "Constitución" de tu seguridad) aprobado por la dirección.
@@ -125,7 +124,7 @@ Ejemplos: Políticas de seguridad, gestión de activos, seguridad en la nube, cl
       
       A.5.8 Seguridad en la gestión de proyectos: Asegura que la seguridad se incluya en cualquier proyecto, desde el inicio.
       
-      2. Gestión de Activos y Datos (A.5.9 - A.5.13)
+-- 2. Gestión de Activos y Datos (A.5.9 - A.5.13)
       Se centra en saber qué tienes y cómo debes protegerlo.
       
       A.5.9 Inventario de información y otros activos: Tienes que saber qué información y qué hardware/software posees.
@@ -136,7 +135,7 @@ Ejemplos: Políticas de seguridad, gestión de activos, seguridad en la nube, cl
       
       A.5.13 Etiquetado de la información: Marcar físicamente (o digitalmente) los documentos y datos según su clasificación.
       
-      3. Gestión de Identidad y Acceso (A.5.14 - A.5.18)
+-- 3. Gestión de Identidad y Acceso (A.5.14 - A.5.18)
       Controla quién puede ver y modificar qué.
       
       A.5.15 Control de acceso: La política general sobre cómo se otorga, revisa y revoca el acceso.
@@ -147,7 +146,7 @@ Ejemplos: Políticas de seguridad, gestión de activos, seguridad en la nube, cl
       
       A.5.18 Gestión de derechos de acceso privilegiado: Controles especiales para las cuentas de "Administrador" o "root".
       
-      4. Proveedores y Nube (A.5.19 - A.5.23)
+-- 4. Proveedores y Nube (A.5.19 - A.5.23)
       Gestiona el riesgo que proviene de terceros que manejan tus datos.
       
       A.5.19 Seguridad en las relaciones con proveedores: Establecer requisitos de seguridad en los contratos.
