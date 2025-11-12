@@ -1,4 +1,4 @@
-# BASE_ISO27001
+# BASE ISO 27001
 Base para implementar ISO 27001
 
 ## Cláusulas 0 a 3 son la base o el prólogo de la norma.
