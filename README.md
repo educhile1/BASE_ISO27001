@@ -1,7 +1,7 @@
 # BASE_ISO27001
 Base para implementar ISO 27001
 
-cláusulas 0 a 3 son la base o el prólogo de la norma.
+## Cláusulas 0 a 3 son la base o el prólogo de la norma.
 
 No son requisitos auditables (es decir, un auditor no te va a poner una "no conformidad" por no cumplir la Cláusula 1), sino que establecen el contexto, el vocabulario y las reglas del juego para que puedas entender y aplicar el resto de la norma (del 4 al 10).
 
